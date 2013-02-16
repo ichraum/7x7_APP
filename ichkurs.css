@@ -1,0 +1,10 @@
+.center-wrapper{
+text-align: center;
+}
+.center-wrapper * {
+margin: 0 auto;
+}
+
+
+#center{text-align:center;}
+#center div {display:inline-block;}
